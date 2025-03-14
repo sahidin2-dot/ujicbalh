@@ -12,3 +12,4 @@ Pyromod==1.5
 speedtest-cli
 TgCrypto
 wget
+flask==2.0.1
